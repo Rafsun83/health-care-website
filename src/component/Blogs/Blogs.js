@@ -22,12 +22,12 @@ const Blogs = () => {
                 <div class="blog-card">
                     <img src="https://i1.feedspot.com/200/641366.jpg" class="blog-image" alt="" />
                     <h1 className="blog-title">Modern Healthcare | The leader in healthcare business news, research, data</h1>
-                    <p class="blog-overview">Modern Healthcare is the industry's most trusted, credible and relied-upon news source. Modern Healthcare examines the most pressing healthcare issues and provides executives with the information they need to make the most informed business decisions and lead their organizations to success. It's for this reason Modern Healthcare is deemed a 'must-read publication' by the who's who in healthcare.</p>
+                    <p class="blog-overview">Modern Healthcare is the industry's most trusted, credible and relied-upon news source. Modern Healthcare examines the most pressing healthcare issues and provides executives with the information they need to make the most informed business decisions and lead their organizations to success. </p>
                 </div>
                 <div class="blog-card">
                     <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/179133276/original/c76cb7bcdb02c02e7000736638823d073cf4fe35/write-healthcare-blogs-and-articles-for-your-website.jpg" class="blog-image" alt="" />
                     <h1 className="blog-title">MedCity News | Healthcare technology news, Life science, Current events</h1>
-                    <p class="blog-overview">Tracking what's next in medical innovation from hospitals, payers, medtech, pharma, digital, beyond.  Over 100,000 Members. Not For Profit. Award-winning. Fast, Simple Claims. Insurance coverage: Lifetime Health Cover, Hospital Cover.</p>
+                    <p class="blog-overview">Tracking what's next in medical innovation from hospitals, payers, medtech, pharma, digital, beyond.  Over 100,000 Members. Not For Profit. </p>
                 </div>
             </div>
         </>
