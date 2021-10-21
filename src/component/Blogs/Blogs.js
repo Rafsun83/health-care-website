@@ -11,7 +11,7 @@ const Blogs = () => {
                 <div class="blog-card">
                     <img src="https://www.informaticsinc.com/application/files/3415/1560/4701/5KeystoMaintainingaSuccessfulHealthcareBlog-900-.jpg" class="blog-image" alt="" />
                     <h1 className="blog-title">Avoid Hospital Waiting Lists - Choose Your Specialist.</h1>
-                    <p class="blog-overview">To celebrate our 70th birthday, join on both Hospital and Extras to go into the draw. to win 70 weeks of your premium as cash back. Value For Money Cover. Over 100,000 Members. Not For Profit. Award-winning. Fast, Simple Claims. Insurance coverage: Lifetime Health Cover, Hospital Cover.</p>
+                    <p class="blog-overview">To celebrate our 70th birthday, join on both Hospital and Extras to go into the draw. to win 70 weeks of your premium as cash back. Value For Money Cover. Over 100,000 Members. Not For Profit. Award-winning. Fast, Simple Claims. </p>
                 </div>
                 <div class="blog-card">
                     <img src="https://i2.wp.com/financebuddha.com/blog/wp-content/uploads/2018/07/20182624/Health-Insurance1.jpg" class="blog-image" alt="" />
